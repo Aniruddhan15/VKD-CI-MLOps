@@ -18,4 +18,3 @@ GitLab CI/CD
 
 Jenkins Pipelines
 
-(Optional: CircleCI, Travis CI)
